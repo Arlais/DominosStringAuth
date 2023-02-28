@@ -1,0 +1,28 @@
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\appsettings.Development.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\appsettings.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Proyecto Inalambria.exe
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Proyecto Inalambria.deps.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Proyecto Inalambria.runtimeconfig.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Proyecto Inalambria.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Proyecto Inalambria.pdb
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.csproj.AssemblyReference.cache
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.AssemblyInfoInputs.cache
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.AssemblyInfo.cs
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.csproj.CoreCompileInputs.cache
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.MvcApplicationPartsAssemblyInfo.cs
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.MvcApplicationPartsAssemblyInfo.cache
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\staticwebassets.build.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\staticwebassets.development.json
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\scopedcss\bundle\Proyecto Inalambria.styles.css
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.csproj.CopyComplete
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\refint\Proyecto Inalambria.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.pdb
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\Proyecto Inalambria.genruntimeconfig.cache
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\obj\Debug\net6.0\ref\Proyecto Inalambria.dll
+D:\Trabajo\Codigo\Proyecto Inalambria\Proyecto Inalambria\bin\Debug\net6.0\Newtonsoft.Json.dll
